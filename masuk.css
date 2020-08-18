@@ -1,0 +1,65 @@
+body{
+	font-family: sans-serif;
+	background: url('img/tempat.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.kotak_login{
+	width: 350px;
+	background: white;
+	margin: 100px auto;
+	padding: 30px 20px;
+	border-radius: 15px;
+	box-shadow: 0px 10px 10px 0px;
+	
+}
+
+.tulisan_login{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 22px;
+
+}
+
+label{
+	font-size: 11pt;
+}
+
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	font-family: 'Noto Sans KR', sans-serif;
+
+}
+
+.tombol_login{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+	margin-bottom: 10px;
+}
+
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}
+
+.tulisan_daftar{
+	text-align: center;
+	font-size: 11pt;
+	font-family: 'Noto Sans KR', sans-serif;
+
+}
